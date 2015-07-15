@@ -10,8 +10,14 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+	You can control what changes you add as the one commit.  And which files it contain.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+	If you would want to make changes to a specific feature or section while still keeping the original.  Branches keep your changes organized.
+
+	Each commit made builds upon last commit(linear commit)-a branch is a label for the commit.  The first is "master"-the main branch.  Current last commit on a branch called "the tip". Combining 2 commits is called "merging".	
 
 How do the diagrams help you visualize the branch structure?
 
