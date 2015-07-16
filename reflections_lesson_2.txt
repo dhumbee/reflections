@@ -30,3 +30,5 @@ the diagram the way we do?
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+	
+	Automatic commits makes it easier to track changes and what parts of code to keep.  
