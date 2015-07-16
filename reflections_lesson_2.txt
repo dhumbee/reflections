@@ -26,5 +26,7 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	The branch becomes part of the solid code in the master branch and the old branch name can be deleted.  The diagram is helpful so you cna visually understand what commits were part of what.
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
