@@ -1,1 +1,4 @@
-When would you want to create a remote respositor rather than keeping all your work local?
+When would you want to create a remote respository rather than keeping all your work local?
+
+	A remote is a reference to another repository. (remote automatically setup when cloning)  If multiple people are working on a project on different computers or when sharing on GitHub and making file changes on there.
+
