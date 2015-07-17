@@ -2,3 +2,7 @@ When would you want to create a remote respository rather than keeping all your 
 
 	A remote is a reference to another repository. (remote automatically setup when cloning)  If multiple people are working on a project on different computers or when sharing on GitHub and making file changes on there.
 
+Why might you want to always pull changes manually rather than having Git automatically stay up to date with your remote repository?
+
+	So you can choose which changes to keep.  You might be experimenting or maybe someone added something to try and you don't want to keep it.
+
