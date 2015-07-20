@@ -14,3 +14,6 @@ What is the benefit of having a copy of the last known state of the remote store
 
 	It's benefical to use as a backup in case of a mistake.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	You could always copy/zip/email your files back and forth...but I don't think it would be as effcient as using Git.
